@@ -1,5 +1,5 @@
 import './list.css'
-function list(){
+function listR(){
     return(
         <ul className="listStyle">
             <b><li>Running</li>
@@ -11,4 +11,4 @@ function list(){
     )
 }
 
-export default list;
+export default listR;

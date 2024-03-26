@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <Title />
-        <Intro />
+        <Intro fullName={"Robert Mellen"}/>
       <List />
         <Table /><br></br>
         <p><u>Now tell me about yourself!</u></p>

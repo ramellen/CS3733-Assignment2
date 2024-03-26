@@ -1,4 +1,4 @@
-function table(){
+function tableR(){
     return(
         <table>
             <tr>
@@ -27,4 +27,4 @@ function table(){
     )
 }
 
-export default table;
+export default tableR;

@@ -1,4 +1,4 @@
-function form() {
+function formR() {
     return(
         <form>
             <label htmlFor="fname">First name:</label><br/>
@@ -24,4 +24,4 @@ function form() {
     )
 }
 
-export default form;
+export default formR;
